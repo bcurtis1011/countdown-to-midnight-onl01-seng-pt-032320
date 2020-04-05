@@ -5,5 +5,3 @@ def countdown
   puts "#{x} seconds!".upcase
   end
 end
-
-  puts "Happy New Year!"
