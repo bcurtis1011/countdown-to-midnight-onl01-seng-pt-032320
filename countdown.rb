@@ -1,7 +1,7 @@
-counter = 10
-def countdown(counter)
-  while counter > 0
+number = 10
+def countdown(number)
+  while number > 0
     puts "#{number} SECOND(S)!!"
-    counter -= 1
+    number -= 1
   end
 end
